@@ -1,0 +1,8 @@
+public class main {
+public static void main (string[] args){
+string s = "kalyani";
+system.out.println(s.contains("kal"));
+system.out.println(s.contains("yani"));
+system.out.println(s.contains("bts"));
+}
+}
